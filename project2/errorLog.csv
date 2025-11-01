@@ -1,0 +1,25 @@
+0,TypeError,'int' object is not callable,0,,2024-11-06 23:09:23.667336
+1,AttributeError,'Table' object has no attribute 'numrows',0,,2024-11-06 23:09:31.227414
+2,TypeError,'int' object is not callable,0,,2024-11-06 23:09:43.331783
+3,SyntaxError,"expected ':' (46005156.py, line 2)",0,,2024-11-06 23:15:32.879199
+4,NameError,name 'coordinate_to_region' is not defined,0,,2024-11-06 23:18:43.758980
+5,NameError,name 'coordinate_to_region' is not defined,0,,2024-11-06 23:18:50.914264
+6,SyntaxError,"'(' was never closed (3130995283.py, line 7)",0,,2024-11-06 23:30:27.123738
+7,AttributeError,'ellipsis' object has no attribute 'show',0,,2024-11-06 23:30:37.948174
+8,NameError,name 'tmax' is not defined,0,,2024-11-06 23:35:21.426917
+9,AttributeError,'Table' object has no attribute 'wit_column',0,,2024-11-06 23:36:57.874850
+10,NameError,name 'phoneix' is not defined,0,,2024-11-06 23:45:00.905089
+11,NameError,name 'phoneix' is not defined,0,,2024-11-06 23:45:22.955573
+12,NameError,name 'Year' is not defined,0,,2024-11-06 23:49:46.401175
+13,ValueError,The column 'Date average' contains non-numerical values. A plot cannot be drawn for this column.,0,,2024-11-06 23:51:22.547106
+14,SyntaxError,"invalid syntax (3481264456.py, line 2)",0,,2024-11-08 03:20:59.875270
+15,ValueError,"The column ""tmax average"" is not in the table. The table contains these columns: Date, tmax, tmin, prcp, Year, Month",0,,2024-11-08 03:21:07.395658
+16,ValueError,"label ""Year"" not in labels ('tmax', 'tmin')",0,,2024-11-08 03:21:20.634195
+17,SyntaxError,"invalid syntax (3919438989.py, line 2)",0,,2024-11-08 03:24:31.386884
+18,TypeError,values requires collect to be specified,0,,2024-11-08 03:38:24.275109
+19,TypeError,values requires collect to be specified,0,,2024-11-08 03:40:49.779583
+20,ValueError,Column length mismatch. New column does not have the same number of rows as table.,0,,2024-11-08 03:46:04.226094
+21,AttributeError,'numpy.ndarray' object has no attribute 'where',0,,2024-11-08 06:50:01.837176
+22,AttributeError,'numpy.ndarray' object has no attribute 'column',0,,2024-11-08 06:50:21.960089
+23,ValueError,The column 'Label' contains non-numerical values. A histogram cannot be drawn for this table.,0,,2024-11-12 18:04:43.179786
+24,AttributeError,'numpy.ndarray' object has no attribute 'len',0,,2024-11-12 18:52:08.574125
