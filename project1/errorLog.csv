@@ -1,0 +1,33 @@
+0,IndexError,index 1975 is out of bounds for axis 0 with size 11,0,,2024-09-27 02:37:14.672525
+1,SyntaxError,"invalid syntax (3290022448.py, line 1)",0,,2024-09-27 02:37:42.289498
+2,IndexError,index 1975 is out of bounds for axis 0 with size 11,0,,2024-09-27 02:37:49.672266
+3,IndexError,index 1970 is out of bounds for axis 0 with size 11,0,,2024-09-27 02:38:00.924948
+4,NameError,name 'b' is not defined,0,,2024-09-27 02:41:44.419579
+5,ValueError,"operands could not be broadcast together with shapes (11,) (10,) ",0,,2024-09-27 02:42:29.485780
+6,ValueError,"operands could not be broadcast together with shapes (11,) (10,) ",0,,2024-09-27 02:43:04.231690
+7,SyntaxError,"Missing parentheses in call to 'print'. Did you mean print(...)? (615155430.py, line 3)",0,,2024-09-27 02:44:43.406247
+8,ValueError,"The column ""population total"" is not in the table. The table contains these columns: time, population_total",0,,2024-09-27 02:47:11.430661
+9,AttributeError,'NoneType' object has no attribute 'plot',0,,2024-09-27 03:06:27.743636
+10,IndexError,tuple index out of range,0,,2024-09-27 03:08:38.318678
+11,NameError,name 'mortality' is not defined,0,,2024-09-27 03:19:11.988606
+12,NameError,name 'mortality' is not defined,0,,2024-09-27 03:19:47.456873
+13,ValueError,"label ""child_mortality_under_5_per_100_born"" not in labels ('geo', 'time', 'children_per_woman_total_fertility')",0,,2024-09-27 03:20:07.911605
+14,SyntaxError,"invalid syntax (113187509.py, line 5)",0,,2024-09-27 03:24:27.779160
+15,SyntaxError,"illegal target for annotation (3960740083.py, line 1)",0,,2024-09-27 06:09:00.578508
+16,ValueError,The column 'geo' contains non-numerical values. A plot cannot be drawn for this column.,0,,2024-09-29 06:01:31.056632
+17,SyntaxError,"invalid syntax (3363623178.py, line 2)",0,,2024-09-29 06:05:33.412132
+18,ValueError,"label ""geo"" not in labels ('country', 'g77_and_oecd_countries', 'income_groups', 'is--country', 'iso3166_1_alpha2', 'iso3166_1_alpha3', 'iso3166_1_numeric', 'iso3166_2', 'landlocked', 'latitude', 'longitude', 'main_religion_2008', 'name', 'un_state', 'unicef_region', 'unicode_region_subtag', 'world_4region', 'world_6region')",0,,2024-10-01 17:42:21.686965
+19,SyntaxError,"invalid syntax (2827824689.py, line 3)",0,,2024-10-01 17:53:47.558362
+20,SyntaxError,"invalid syntax (2042946906.py, line 3)",0,,2024-10-01 18:39:19.665753
+21,SyntaxError,"invalid syntax (958856907.py, line 3)",0,,2024-10-01 18:39:25.577166
+22,ValueError,"The column ""longitude"" is not in the table. The table contains these columns: latitude",0,,2024-10-01 18:46:33.456371
+23,SyntaxError,"invalid syntax (3938916912.py, line 1)",0,,2024-10-02 02:04:29.207520
+24,ValueError,Column length mismatch. New column does not have the same number of rows as table.,0,,2024-10-02 22:22:34.010563
+25,ValueError,"The column ""longitude"" is not in the table. The table contains these columns: latitude",0,,2024-10-02 22:29:51.602361
+26,NameError,name 'country' is not defined,0,,2024-10-03 05:14:29.521442
+27,AttributeError,'str' object has no attribute 'num_rows',0,,2024-10-03 05:19:41.508870
+28,NameError,name 'filtered_population' is not defined,0,,2024-10-03 05:20:02.599658
+29,NameError,name 'filtered_population' is not defined,0,,2024-10-03 05:20:45.647220
+30,NameError,name 'filtered_population' is not defined,0,,2024-10-03 05:21:08.460997
+31,IndentationError,"expected an indented block after function definition on line 12 (1795167304.py, line 13)",0,,2024-10-03 05:35:08.053645
+32,IndentationError,"expected an indented block after function definition on line 14 (275151141.py, line 15)",0,,2024-10-03 05:37:08.624161
